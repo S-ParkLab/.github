@@ -1,7 +1,7 @@
 # Welcome to the Spark Lab. 👋
 Molecular Immunology Laboratory in UNIST (Prof. Sung Ho Park)
 <p align="center">
-<img width="850" src="src/Topic_Spark_LAB_0.png">
+<img width="850" src="./github/src/Topic_Spark_LAB_0.png">
 </p>
 
 <p align="center">
