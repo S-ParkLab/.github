@@ -1,5 +1,6 @@
 # .github
-Spark Lab : Molecular Immunology Laboratory in UNIST
+### Spark Lab : Molecular Immunology Laboratory in UNIST
+
 <p align="center">
 <img width="850" src="src/Topic_Spark_LAB_0.png">
 </p>
