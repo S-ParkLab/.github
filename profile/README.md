@@ -1,5 +1,5 @@
-## Welcome to the Spark Lab. 👋
-Molecular Immunology Laboratory in UNIST (Prof. Sung Ho Park)
+# Welcome to the Spark Lab. 👋
+## Molecular Immunology Laboratory in UNIST (Prof. Sung Ho Park)
 <!--
 
 **Here are some ideas to get you started:**
