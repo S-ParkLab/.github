@@ -1,4 +1,4 @@
-## Welcome Spark Lab. 👋
+## Welcome to the Spark Lab. 👋
 Molecular Immunology Laboratory in UNIST
 <!--
 
