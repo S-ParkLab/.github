@@ -1,6 +1,5 @@
 # Welcome to the Spark Lab. 👋
 ### Molecular Immunology Laboratory in UNIST (Prof. Sung Ho Park)
-<hr>
 
 # Using Bioinformatics to decipher innate immunity
 <p align="center">
